@@ -1,4 +1,4 @@
-# Headline
+# Docs
 
 > A todo project used by React, typescript.
-docs: build this app step by step .
+step by step tutorial: [`Documents`](https://hcvincent.github.io/todo/#/).
